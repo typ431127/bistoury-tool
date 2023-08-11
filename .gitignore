@@ -1,0 +1,4 @@
+.idea/
+cmd/bistoury-sync/bistoury-sync
+cmd/bistoury-sync/app.ini
+cmd/bistoury-sync/bistoury-sync.exe
