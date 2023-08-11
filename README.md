@@ -73,3 +73,8 @@ db=bistoury
 ./bistoury-sync
 ```
 
+自动注册应用
+![image](https://github.com/typ431127/bistoury-tool/assets/20376675/67862267-3ead-43b3-ab00-4365ef18964f)
+![image](https://github.com/typ431127/bistoury-tool/assets/20376675/75796729-1b7e-4a36-b34f-0f1899271579)
+
+
